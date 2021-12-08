@@ -25,5 +25,12 @@ The app provides functionality to automatically manage and split expenses betwee
   
 ## Screenshots
 
-![Alt text](screenshots/homepage_splitwise.PNG?raw=true "Optional Title")
+* Project Homepage
+  * ![Homepage](screenshots/homepage_splitwise.PNG?raw=true "Homepage")
+
+* Settle Dues
+  * ![Settle Dues](screenshots/settle_dues.PNG?raw=true "Settle Dues")
+
+* Split Expenses
+  * ![Split Expenses](screenshots/split_expenses.PNG?raw=true "Split Expenses")
 
