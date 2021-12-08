@@ -1,0 +1,27 @@
+.para{
+    margin: auto;
+    text-align: center;
+    margin-top: 135px;
+    font-family: 'PT Sans', sans-serif;
+    margin-bottom: 20px;
+}
+
+.label{
+    font-family: 'PT Sans', sans-serif;
+}
+
+.button{
+    width: 10%;
+    margin-top: 40px;
+    margin-bottom: 60px;
+}
+
+.formControl:focus {
+    border-color: #FF0000;
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(255, 0, 0, 0.6);
+}
+
+.dropdown{
+    margin-top: 20px;
+}
+
